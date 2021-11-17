@@ -1,0 +1,1 @@
+import{d as r,r as a,o,c as e,a as n}from"./vendor.4f9a1a4c.js";var s=r({name:"MdmForm",setup:()=>({})});s.render=function(r,s,t,d,m,c){const u=a("FormSection");return o(),e("div",null,[n(u)])};export default s;
