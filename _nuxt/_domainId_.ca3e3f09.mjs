@@ -1,0 +1,1 @@
+import{b as s,o as e,G as t,I as m,u as r}from"./entry.b2d48240.mjs";import{u as d}from"./useDomain.c05c5506.mjs";const _={__name:"[domainId]",setup(i){const a=s(),o=d(),n=a.params.domainId;return o.value=a.params.domainId,(u,c)=>(e(),t("div",null,"domainId \uC0AC\uC6A9\uC790 \uD654\uBA74 "+m(r(n)),1))}};export{_ as default};

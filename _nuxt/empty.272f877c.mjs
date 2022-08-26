@@ -1,0 +1,1 @@
+import{F as s,o as t,G as o,R as a,E as n}from"./entry.b2d48240.mjs";const c={},r={class:"min-h-full"};function l(e,_){return t(),o("div",r,[a("main",null,[n(e.$slots,"default")])])}const f=s(c,[["render",l]]);export{f as default};
